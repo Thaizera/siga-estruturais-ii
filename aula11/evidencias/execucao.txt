@@ -1,0 +1,43 @@
+=== SIGA - Aula 11: Decorator e Composite ===
+
+1) Cabecalho externo a numeracao:
+FATEC DE PORTO FERREIRA
+Sistema de Gestao Academica
+---
+1: Maria Silva
+2: Joao Souza
+3: Ana Pereira
+*** RASCUNHO - NAO E DOCUMENTO OFICIAL ***
+
+2) Numeracao externa ao cabecalho:
+1: FATEC DE PORTO FERREIRA
+2: Sistema de Gestao Academica
+3: ---
+4: Maria Silva
+5: Joao Souza
+6: Ana Pereira
+*** RASCUNHO - NAO E DOCUMENTO OFICIAL ***
+
+3) Grade original:
+[DSM - Desenvolvimento de Software Multiplataforma]
+  [1o semestre]
+    Algoritmos (80h)
+    Banco de Dados I (60h)
+  [2o semestre]
+    Tecnicas de Programacao II (80h)
+    Desenvolvimento Web II (80h)
+  Projeto Integrador (40h)
+Carga total: 340h
+
+4) Grade com modulo de terceiro nivel:
+[DSM - Desenvolvimento de Software Multiplataforma]
+  [1o semestre]
+    Algoritmos (80h)
+    Banco de Dados I (60h)
+  [2o semestre]
+    Tecnicas de Programacao II (80h)
+    Desenvolvimento Web II (80h)
+    [Trilha de especializacao em dados]
+      Analise de Dados (40h)
+  Projeto Integrador (40h)
+Carga total: 380h

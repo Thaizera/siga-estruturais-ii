@@ -7,6 +7,6 @@ public class ComMarcaDagua extends DecoradorRelatorio {
 
     @Override
     public String gerar() {
-        return super.gerar() + "\n*** RASCUNHO — NAO E DOCUMENTO OFICIAL ***";
+        return super.gerar() + "\n*** RASCUNHO - NAO E DOCUMENTO OFICIAL ***";
     }
 }
