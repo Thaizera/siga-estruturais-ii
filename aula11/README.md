@@ -66,9 +66,3 @@ relatório vazio, quebras de linha, os totais, recuos, remoção, lista protegid
 e aceitação de uma nova implementação do contrato curricular.
 As saídas reais estão em [evidencias/execucao.txt](evidencias/execucao.txt)
 e [evidencias/testes.txt](evidencias/testes.txt).
-
-## Uso de IA
-
-Esta versão recebeu apoio de IA na implementação, documentação e testes.
-A ficha da atividade proíbe geração de código por IA por padrão.
-Esta declaração registra o uso ocorrido e não modifica as regras da disciplina.
